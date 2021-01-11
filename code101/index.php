@@ -39,6 +39,45 @@
         <li><a href="../auxStuff/c11_PHPFormHandling_exe1.php">PHP Form Handling</a></li>
     </ul>
 
+    <br>
+    <h1>Part IV – PHP Advanced</h1>
+    <ul>
+        <li><a href="../php/c16_PHPDateAndTime.php">PHP Date and Time</a></li>
+        <li><a href="../php/c17_PHPInclude.php">PHP Include</a></li>
+        <li><a href="../php/c18_PHPCookies.php">PHP Cokies</a></li>
+        <li><a href="../php/c19_PHPSessions.php">PHP Sessions</a></li>
+        <li><a href="../php/C20_PHPFilters.php">PHP Callback Functions</a></li>
+        <li><a href="../php/C21_PHPFiltersAdvanced.php">PHP Exceptions</a></li>
+        <li><a href="../php/C22_PHPCallbackFunctions.php">PHP Exceptions</a></li>
+        <li><a href="../php/C23_PHPExceptions.php">PHP Exceptions</a></li>
+        <li><a href="../auxStuff/">Challenge03</a></li>
+    </ul>
+
+    <br>
+    <h1>Part V – PHP OOP</h1>
+    <ul>
+
+    </ul>
+
+    <br>
+    <h1>Part VI – MySQL DB</h1>
+    <ul>
+        <li><a href="../php/c41_PHPOpenCloseConnection1.php">Open Connection 1</a></li>
+        <li><a href="../php/c41_PHPOpenCloseConnection2.php">Open Connection 2</a></li>
+        <li><a href="../php/c42_PHPreadRecordWithPHP.php">Read a record with PHP</a></li>
+        <li><a href="../php/c43_PHPAddRecord.php">Add a record to a MySQL database</a></li>
+        <li><a href="../php/testPrep.php">Prepared Statements</a></li>
+        <li><a href="../php/testPrep2.php">INSERT with Prepared Statements</a></li>
+        <li><a href="../php/testPrep3.php">UPDATE with Prepared Statements</a></li>
+        <li><a href="../php/testPrep4.php">DELETE with Prepared Statements</a></li>
+
+        <li><a href="../login/signup.php">Sign up</a></li>
+        <li><a href="../login/login.php">login</a></li>
+        
+    </ul>
+
+
+
 
 
     
