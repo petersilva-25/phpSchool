@@ -73,9 +73,23 @@
 
         <li><a href="../login/signup.php">Sign up</a></li>
         <li><a href="../login/login.php">login</a></li>
-        
     </ul>
 
+    <br>
+    <h1>Challenge04</h1>
+    <ul>
+        <li><a href="../auxStuff/challenge04/lab14-exercise08-pdo.php">exercise8 pdo</a></li>
+        <li><a href="../auxStuff/challenge04/lab14-exercise09.php">exercise9 pdo</a></li>
+        <li><a href="../auxStuff/challenge04/lab14-exercise10.php">exercise10 pdo</a></li>
+        <li><a href="../auxStuff/challenge04/lab14-exercise11.php">exercise11 pdo</a></li>
+        <li><a href="../auxStuff/challenge04/lab14-exercise12.php">exercise12 pdo</a></li>
+    </ul>
+
+    <br>
+    <h1>Challenge04</h1>
+    <ul>
+        <li><a href="../auxStuff/frequencia01/index.php">frequncia 01</a></li>
+    </ul>
 
 
 
